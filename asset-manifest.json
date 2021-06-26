@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/la-pizzeria/static/css/main.3ac246a8.chunk.css",
+    "main.js": "/la-pizzeria/static/js/main.ac9cd6ba.chunk.js",
+    "main.js.map": "/la-pizzeria/static/js/main.ac9cd6ba.chunk.js.map",
+    "runtime-main.js": "/la-pizzeria/static/js/runtime-main.0528125f.js",
+    "runtime-main.js.map": "/la-pizzeria/static/js/runtime-main.0528125f.js.map",
+    "static/js/2.d2c920b7.chunk.js": "/la-pizzeria/static/js/2.d2c920b7.chunk.js",
+    "static/js/2.d2c920b7.chunk.js.map": "/la-pizzeria/static/js/2.d2c920b7.chunk.js.map",
+    "static/js/3.80250bb6.chunk.js": "/la-pizzeria/static/js/3.80250bb6.chunk.js",
+    "static/js/3.80250bb6.chunk.js.map": "/la-pizzeria/static/js/3.80250bb6.chunk.js.map",
+    "index.html": "/la-pizzeria/index.html",
+    "static/css/main.3ac246a8.chunk.css.map": "/la-pizzeria/static/css/main.3ac246a8.chunk.css.map",
+    "static/js/2.d2c920b7.chunk.js.LICENSE.txt": "/la-pizzeria/static/js/2.d2c920b7.chunk.js.LICENSE.txt",
+    "static/media/logo.5f9d5f69.png": "/la-pizzeria/static/media/logo.5f9d5f69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0528125f.js",
+    "static/js/2.d2c920b7.chunk.js",
+    "static/css/main.3ac246a8.chunk.css",
+    "static/js/main.ac9cd6ba.chunk.js"
+  ]
+}
