@@ -1,6 +1,7 @@
 import React from "react"
 
-import logo from '../../../src/logo.png';
+import logo from '../../../src/logo.png'
+import CartWidget from '../cart/CartWidget'
 
 const Navbar = (props) => {
 
@@ -50,14 +51,7 @@ const Navbar = (props) => {
 
                 <div className="navbar-end">
                 <div className="navbar-item">
-                    <div className="buttons">
-                    <a className="button is-primary">
-                    <span>Mi pedido</span>   
-                    <span className="icon">
-                        <i className="fas fa-shopping-cart"></i>
-                    </span>
-                    </a>
-                    </div>
+                    <CartWidget />
                 </div>
                 </div>
             </div>
