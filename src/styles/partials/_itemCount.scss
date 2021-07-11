@@ -1,0 +1,18 @@
+.counterContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .numberContainer {
+        padding: .4rem 1rem;
+        margin: .1rem;
+    }
+
+    button {
+        margin: 0 .1rem;
+    }
+}
+
+.stock {
+    margin-top: .5rem;
+}

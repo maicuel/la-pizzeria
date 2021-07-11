@@ -9,7 +9,7 @@ const CartWidget = () => {
                 <div className="buttons"> 
                     <a className="button is-primary">
                         <span className="icon">
-                            <img src={cart}></img>
+                            <img src={cart} />
                         </span>
                     </a>
                 </div>

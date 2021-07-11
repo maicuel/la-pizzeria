@@ -10,7 +10,7 @@ const Navbar = (props) => {
             <nav className="navbar is-light" role="navigation" aria-label="main navigation">
             <div className="navbar-brand">
                 <div className="navbar-item" href="#">
-                    <img src={logo} alt={props.name}></img>
+                    <img src={logo} alt={props.name} />
                 </div>
 
                 <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
